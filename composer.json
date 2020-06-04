@@ -23,7 +23,6 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "^5.0",
         "spatie/flysystem-dropbox": "^1.0"
     },
     "autoload": {
